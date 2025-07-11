@@ -49,4 +49,14 @@ docker-compose up --build
 
 Accès au site : http://localhost:8080
 
+## 📚 Explications
+
+    Template utilisé : Massively par HTML5 UP
+
+    Pourquoi Docker ?
+    → Déploiement ultra-rapide, reproductible partout, versionnage du code et des images.
+
+    Pourquoi Nginx ?
+    → Serveur web très léger, parfait pour du statique, configuration ultra-minimale.
+
 
