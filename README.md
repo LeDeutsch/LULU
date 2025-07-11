@@ -1,7 +1,7 @@
 # 🚀 Déploiement d'un Site Statique avec Docker & Nginx
 
-> **Auteur** : *Ton Nom et Prénom ici*  
-> **Projet DevOps - 2024*
+> **Auteur** : *Dinspel Ludwig*  
+> **Projet DevOps - 2025 ESTIAM*
 
 
 ## 🎯 Objectif
