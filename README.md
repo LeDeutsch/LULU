@@ -51,7 +51,7 @@ Accès au site : http://localhost:8080
 
 ## 📚 Explications
 
-    Template utilisé : Massively par HTML5 UP
+    Template utilisé : Massively par HTML5 UP : https://html5up.net/massively
 
     Pourquoi Docker ?
     → Déploiement ultra-rapide, reproductible partout, versionnage du code et des images.
